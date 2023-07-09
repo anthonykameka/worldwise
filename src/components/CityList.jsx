@@ -7,6 +7,7 @@ import { useCities } from "../contexts/CityContext.jsx";
 
 export default function CityList() {
   const { cities, isLoading } = useCities();
+
   if (isLoading) {
     return <Spinner />;
   }
@@ -19,7 +20,7 @@ export default function CityList() {
   return (
     <ul className={styles.cityList}>
       {cities.map((city) => {
-        return <CityItem city={city} />;
+        return <CityItem key={city.id} city={city} />;
       })}
     </ul>
   );

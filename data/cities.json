@@ -37,28 +37,27 @@
       "id": 98443197
     },
     {
-      "cityName": "Faro",
-      "country": "Portugal",
-      "emoji": "🇵🇹",
-      "date": "2027-10-31T15:59:59.138Z",
-      "notes": "My favorite city so far!",
+      "cityName": "Berlanga",
+      "country": "Spain",
+      "date": "2023-07-07T16:53:36.551Z",
+      "notes": "TEST",
       "position": {
-        "lat": 38.727881642324164,
-        "lng": -9.140900099907554
+        "lat": "38.25543637637949",
+        "lng": "-5.844726562500001"
       },
-      "id": 23141231
+      "id": 98443198
     },
     {
-      "cityName": "Barcelona",
+      "cityName": "Torre de Juan Abad",
       "country": "Spain",
       "emoji": "🇪🇸",
-      "date": "2027-07-15T08:22:53.976Z",
-      "notes": "",
+      "date": "2023-07-07T16:57:28.861Z",
+      "notes": "sweet",
       "position": {
-        "lat": 40.46635901755316,
-        "lng": -3.7133789062500004
+        "lat": "38.59970036588819",
+        "lng": "-3.0322265625000004"
       },
-      "id": 3424343
+      "id": 98443199
     }
   ]
 }
